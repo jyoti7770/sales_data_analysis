@@ -5,3 +5,5 @@
 To perform a comprehensive analysis of e-commerce sales data using Excel and charts,aimed at
 identifying key sales trends and customer purchasing behaviours and profit.
 the analysis is focus on improving sales forcasting and enhancing profitability through data-driven insight.
+
+## Analysis steps
