@@ -11,9 +11,13 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 1. Remove duplicate
 2. Remove blank rows
 3. check data type
-### data processing
+### Data processing
 1. month is extracted from order_date column by using [=text(cell reference,"mmmm")] formula.
 2. year is extracted from order_date column by using [=text(cell reference,"mmmm")]formula.
 ### data analysis using pivot table 
+1. sales by sub-category
+   it will help to analyze which products are more popular in each sub-category and more demanding
+   by customers.
+   
 
 
