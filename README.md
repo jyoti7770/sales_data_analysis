@@ -21,9 +21,9 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 
    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/analysis%20sales%20by%20sub-category.png)
    
-2. Year wise Sale:
+2. Year wise Sales:
    helps to analyze Sales growth trends, it shows whether sales are increasing,decreasing,or constant over the year.
 
-   ![image]()
-
-
+   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/year%20wise%20sales.png)
+3. month wise sales:
+   helps to analyze monthly sales growth trends 
