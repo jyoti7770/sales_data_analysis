@@ -36,4 +36,6 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 5. Sales and Profit by state:
     it is not necessary that more sales means more profit ,sometimes company faces loss also.so this analysis helps to know which state is performing
    well in both sales and profit.
-   ![image]()
+
+   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/sales%20and%20profit%20by%20state.png)
+### Dashboard
