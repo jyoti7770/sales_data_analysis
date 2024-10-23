@@ -16,7 +16,8 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 2. year is extracted from order_date column by using [=text(cell reference,"mmmm")]formula.
 ### data analysis using pivot table 
 1. sales by sub-category :
-   
+   It helps to analyze which sub-categories are underperforming and which products are most popular among customer
+   in each sub-category.
    
    
 
