@@ -18,6 +18,8 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 1. sales by sub-category :
    It helps to analyze which sub-categories are underperforming and which products are most popular among customer
    in each sub-category.
+
+   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/analysis%20sales%20by%20sub-category.png)
    
    
 
