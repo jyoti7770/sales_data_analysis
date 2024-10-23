@@ -12,7 +12,8 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 2. Remove blank rows
 3. check data type
 ### data processing
-1.month is extracted from order_date column by using [=text(cell reference,"mmmm")] formula.
-
+1. month is extracted from order_date column by using [=text(cell reference,"mmmm")] formula.
+2. year is extracted from order_date column by using [=text(cell reference,"mmmm")]formula.
+### data analysis using pivot table 
 
 
