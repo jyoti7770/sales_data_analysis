@@ -11,3 +11,7 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 1. Remove duplicate
 2. Remove blank rows
 3. check data type
+### data processing
+
+
+
