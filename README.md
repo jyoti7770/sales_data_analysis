@@ -26,4 +26,9 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 
    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/year%20wise%20sales.png)
 3. month wise sales:
-   helps to analyze monthly sales growth trends 
+   helps to analyze monthly sales growth trends
+
+    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/monthly%20sales.png)
+4. profit by top 5 customers:
+   helps to know who is the top 5 customers contributing in business profits
+   ![image]()
