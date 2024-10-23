@@ -39,3 +39,4 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 
    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/sales%20and%20profit%20by%20state.png)
 ### Dashboard
+![image]()
