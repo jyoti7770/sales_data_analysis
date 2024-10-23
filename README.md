@@ -15,7 +15,7 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 1. month is extracted from order_date column by using [=text(cell reference,"mmmm")] formula.
 2. year is extracted from order_date column by using [=text(cell reference,"mmmm")]formula.
 ### data analysis using pivot table 
-1. sales by sub-category :
+1. Sales by Sub-category :
    It helps to analyze which sub-categories are underperforming and which products are most popular among customer
    in each sub-category.
 
@@ -25,10 +25,15 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
    helps to analyze Sales growth trends, it shows whether sales are increasing,decreasing,or constant over the year.
 
    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/year%20wise%20sales.png)
-3. month wise sales:
+3. Month wise sales:
    helps to analyze monthly sales growth trends
 
     ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/monthly%20sales.png)
-4. profit by top 5 customers:
+4. Profit by top 5 customers:
    helps to know who is the top 5 customers contributing in business profits
+
+   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/profit%20by%20top%205%20customer.png)
+5. Sales and Profit by state:
+    it is not necessary that more sales means more profit ,sometimes company faces loss also.so this analysis helps to know which state is performing
+   well in both sales and profit.
    ![image]()
