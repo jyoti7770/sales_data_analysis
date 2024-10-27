@@ -8,12 +8,12 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 
 ## Analysis steps
 ### Cleaning data 
-1. Remove duplicate
-2. Remove blank rows
-3. check data type
+1. Removed duplicate
+2. Removed blank rows
+3. checked data type
 ### Data processing
 1. month is extracted from order_date column by using [=text(cell reference,"mmmm")] formula.
-2. year is extracted from order_date column by using [=text(cell reference,"mmmm")]formula.
+2. year is extracted from order_date column by using [=text(cell reference,"yyyy")]formula.
 ### data analysis using pivot table 
 1. Sales by Sub-category :
    It helps to analyze which sub-categories are underperforming and which products are most popular among customer
