@@ -1,4 +1,4 @@
-# Sales Analysis and Dashboard with EXCEL
+# Excel Sales Analytics and Visualization for Business Decision
 ![Ecommerce sales logo](https://github.com/jyoti7770/sales_data_analysis/blob/main/worldwide-ecommerce-sales.jpg)
 
 ## Objective
@@ -8,12 +8,24 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 
 ## Analysis steps
 ### Cleaning data 
-1. Removed duplicate
-2. Removed blank rows
-3. checked data type
+To ensure data quality and prepare it for accurate analysis, the following data cleaning procedures were performed:
+ 1. Removed duplicate records to eliminate redundancy and maintain data integrity.
+ 2. Eliminated blank or empty rows to ensure consistency and avoid errors during analysis.
+ 3. Validated and corrected data types for each column to match the expected format, enabling accurate computations and visualizations.
+
 ### Data processing
-1. month is extracted from order_date column by using [=text(cell reference,"mmmm")] formula.
-2. year is extracted from order_date column by using [=text(cell reference,"yyyy")]formula.
+As part of the data preparation process, key time-based features were derived from the Order_Date column to facilitate temporal analysis:
+
+1. Month Extraction:
+ Extracted the full month name from the Order_Date column using the formula:
+ =TEXT(cell_reference, "mmmm")
+ This allows for monthly trend analysis and seasonality insights.
+
+2. Year Extraction:
+ Extracted the year from the Order_Date column using the formula:
+ =TEXT(cell_reference, "yyyy")
+ This enables year-over-year comparison and time series aggregation.
+
 ### data analysis using pivot table 
 1. Sales by Sub-category :
    It helps to analyze which sub-categories are underperforming and which products are most popular among customer
