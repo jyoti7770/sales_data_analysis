@@ -6,6 +6,9 @@ To perform a comprehensive analysis of e-commerce sales data using Excel and cha
 identifying key sales trends and customer purchasing behaviours and profit.
 the analysis is focus on improving sales forcasting and enhancing profitability through data-driven insight.
 
+## Dataset
+the data for this project is taken from kaggle dataset:
+-**Dataset link:**[datset](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
 ## Analysis steps
 ### Cleaning data 
 To ensure data quality and prepare it for accurate analysis, the following data cleaning procedures were performed:
