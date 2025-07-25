@@ -1,4 +1,4 @@
-# Excel Sales Analysis and Visualization for Business Decision
+# E-commerce Sales Analysis using Excel
 ![Ecommerce sales logo](https://github.com/jyoti7770/sales_data_analysis/blob/main/worldwide-ecommerce-sales.jpg)
 
 ## Objective
