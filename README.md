@@ -64,7 +64,7 @@ As part of the data preparation process, key time-based features were derived fr
 4. Our 5 top customers are Tumaran Chand,Raymond Buch,Sanjit Chand,Hunter Lopez and Adrain barton.
 5. We can see that California,New York,Washington are performing well by sales and also giving good profit
    but Pennsylvania and Taxax are perfroming well in sales but they provided loss to business.
- ### Concluison 
+ ### Conclusion 
  Based on the sales analysis, the company can significantly enhance its business growth by optimizing its product strategy. It is recommended to increase the production of high-demand products such as Phones, Chairs, Storage units, Tables, and Binders, while discontinuing or reducing the manufacturing of low-demand items. This targeted approach will streamline operations and improve overall efficiency.
 Additionally, implementing seasonal promotional offers during peak sales months can help boost revenue and customer engagement. These offers can incentivize bulk purchases and attract new customers, thereby increasing market reach.
 From a regional perspective, it is advisable for the company to cease selling Furniture, Office Supplies, and Technology products in Pennsylvania, and Furniture and Supplies in Texas, as these categories show poor performance in those areas. Instead, the company should focus on expanding these categories in regions or countries where they are in higher demand, maximizing profitability and reducing potential losses.
