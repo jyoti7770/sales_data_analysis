@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis using Excel
+# E-commerce Analysis using Excel
 ![Ecommerce sales logo](https://github.com/jyoti7770/sales_data_analysis/blob/main/worldwide-ecommerce-sales.jpg)
 
 ## Objective
