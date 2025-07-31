@@ -33,7 +33,7 @@ As part of the data preparation process, key time-based features were derived fr
  This enables year-over-year comparison and time series aggregation.
 
 ### data analysis using pivot table 
-1. Sales by Sub-category :
+1. Profit by Sub-category :
    It helps to analyze which sub-categories are underperforming and which products are most popular among customer
    in each sub-category.
 
@@ -43,8 +43,8 @@ As part of the data preparation process, key time-based features were derived fr
    helps to analyze Sales growth trends, it shows whether sales are increasing,decreasing,or constant over the year.
 
    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/year%20wise%20sales.png)
-3. Month wise sales:
-   helps to analyze monthly sales growth trends
+3. Month wise Profit:
+   helps to analyze monthly profit growth trends
 
     ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/monthly%20sales.png)
 4. Profit by top 5 customers:
