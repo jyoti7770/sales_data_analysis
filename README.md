@@ -46,7 +46,7 @@ As part of the data preparation process, key time-based features were derived fr
 3. Month wise Profit:
    helps to analyze monthly profit growth trends
 
-    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/monthly%20sales.png)
+    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/sales_by_month.png)
 4. Profit by top 5 customers:
    helps to know who is the top 5 customers contributing in business profits
 
