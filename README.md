@@ -56,8 +56,8 @@ As part of the data preparation process, key time-based features were derived fr
    well in both sales and profit.
 
    ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/profit_by_state.png)
-### Sales Analysis Dashboard 
-![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/sales%20analysis%20dashboard.png)
+### E-commerce Sales Analysis Dashboard 
+![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/E-commerce_sales_dashboard.png)
 ### Insights
 1. In Sub-Category we can see that Copiers,Phones,Accessories,Papers,Binders and chairs are perfroming well and alone generating 80%+ profit 
    and Tables,Bookcases,Supplies,Machines and Fasteners are underperforming and generating 2% profit.
