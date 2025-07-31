@@ -37,7 +37,7 @@ As part of the data preparation process, key time-based features were derived fr
    It helps to analyze which sub-categories are underperforming and which products are most popular among customer
    in each sub-category.
 
-   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/analysis%20sales%20by%20sub-category.png)
+   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/profit_by_sub_categories.png)
    
 2. Year wise Sales:
    helps to analyze Sales growth trends, it shows whether sales are increasing,decreasing,or constant over the year.
