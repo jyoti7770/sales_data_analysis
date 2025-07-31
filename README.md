@@ -59,15 +59,15 @@ As part of the data preparation process, key time-based features were derived fr
 ### Sales Analysis Dashboard 
 ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/sales%20analysis%20dashboard.png)
 ### Insights
-1. In Sub-Category we can see that Phones,Chairs,Storage,Tables ,Binders and Machines are perfroming well
-   and Supplies,Arts,Envelops,Labels and Fasteners are underperforming.
+1. In Sub-Category we can see that Copiers,Phones,Accessories,Papers,Binders and chairs are perfroming well and alone generating 80%+ profit 
+   and Tables,Bookcases,Supplies,Machines and Fasteners are underperforming and generating 2% profit.
 2. If we see line chart in dashboard it shows sales are growing year over year .
-3. Some months sales are perfoming well that is March,September and November and remaining months its little decreases.
+3. Some months sales are perfoming well that is March,September,November and December,remaining months its little decreases.
 4. Our 5 top customers are Tumaran Chand,Raymond Buch,Sanjit Chand,Hunter Lopez and Adrain barton.
-5. We can see that California,New York,Washington are performing well by sales and also giving good profit
-   but Pennsylvania and Taxax are perfroming well in sales but they provided loss to business.
+5. We can see that California,New York,Washington are performing well by sales and also generating good profit to business
+   and Pennsylvania , Taxax are perfroming well in sales but they generating loss,their profit percentage are -10.92% and -18.05%.
  ### Conclusion 
- Based on the sales analysis, the company can significantly enhance its business growth by optimizing its product strategy. It is recommended to increase the production of high-demand products such as Phones, Chairs, Storage units, Tables, and Binders, while discontinuing or reducing the manufacturing of low-demand items. This targeted approach will streamline operations and improve overall efficiency.
+ Based on the sales analysis, the company can significantly enhance its business growth by optimizing its product strategy. It is recommended to increase the production of high-demand products such as Copiers, Phones, Accessories, Papers, chairs and Binders, while discontinuing or reducing the manufacturing of low-demand items. This targeted approach will streamline operations and improve overall efficiency.
 Additionally, implementing seasonal promotional offers during peak sales months can help boost revenue and customer engagement. These offers can incentivize bulk purchases and attract new customers, thereby increasing market reach.
 From a regional perspective, it is advisable for the company to cease selling Furniture, Office Supplies, and Technology products in Pennsylvania, and Furniture and Supplies in Texas, as these categories show poor performance in those areas. Instead, the company should focus on expanding these categories in regions or countries where they are in higher demand, maximizing profitability and reducing potential losses.
 By aligning production and sales efforts with market demand and regional trends, the company can enhance its productivity, profitability, and long-term sustainability.
