@@ -8,7 +8,7 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 
 ## Dataset
 the data for this project is taken from kaggle dataset:
--**Dataset link:**[Sample superstore datset](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
+-**Dataset link:**[Sample superstore datset](https://github.com/jyoti7770/sales_data_analysis/blob/main/salesdata.csv)
 
 ## Analysis steps
 ### Cleaning data 
