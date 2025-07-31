@@ -10,6 +10,8 @@ the analysis is focus on improving sales forcasting and enhancing profitability 
 the data for this project is taken from kaggle dataset:
 -**Dataset link:**[Sample superstore datset](https://github.com/jyoti7770/sales_data_analysis/blob/main/salesdata.csv)
 
+-**Analysis link:**[data analysis]()
+
 ## Analysis steps
 ### Cleaning data 
 To ensure data quality and prepare it for accurate analysis, the following data cleaning procedures were performed:
