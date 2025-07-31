@@ -55,7 +55,7 @@ As part of the data preparation process, key time-based features were derived fr
     it is not necessary that more sales means more profit ,sometimes company faces loss also.so this analysis helps to know which state is performing
    well in both sales and profit.
 
-   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/sales%20and%20profit%20by%20state.png)
+   ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/profit_by_state.png)
 ### Sales Analysis Dashboard 
 ![image](https://github.com/jyoti7770/sales_data_analysis/blob/main/sales%20analysis%20dashboard.png)
 ### Insights
